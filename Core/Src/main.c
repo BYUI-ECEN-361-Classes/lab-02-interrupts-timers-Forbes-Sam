@@ -88,6 +88,7 @@ int best_reaction_time_in_millisec = 99999;  //Start with something easy to beat
   */
 int main(void)
 {
+
   /* USER CODE BEGIN 1 */
 
   /* USER CODE END 1 */
